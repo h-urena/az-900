@@ -24,9 +24,9 @@ Cloud adoption allows organizations to shift from a Capital Expense to an Operat
 
 | Benefit               | Description                                             |
 |-----------------------|---------------------------------------------------------|
-| **High Availability** | Uptime 99% - 99.05%                                     |
-| **Scalability**       | Vertical/Horizontal as demand increases or decreases    |
-| **Reliability**       | Recover from failures (fault tolerance/DR)              |
+| **High Availability** | Uptime 99% - 99.95%                                     |
+| **Scalability**       | **Vertical** / **Horizontal** scaling as demand increases or decreases    |
+| **Reliability**       | Recover from failures (fault tolerance / DR)              |
 | **Predictability**    |  **Of performance**: resources needed <br> **Of cost**: forecasting |
 | **Agility**           | Rapid provisioning and innovation                       |
 | **Cost Efficiency**   | Reduced capital expense, operational savings            |
@@ -35,7 +35,7 @@ Cloud adoption allows organizations to shift from a Capital Expense to an Operat
 
 #### User is always responsible for
 
-- Info and data stored in the cloud
+- Information and data stored in the cloud
 - Devices allowed to connect to your cloud infrastructure
 - Accounts and identities of the people, services, and devices within your organization
 

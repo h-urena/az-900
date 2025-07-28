@@ -22,14 +22,14 @@ The delivery of computing services, including: compute, storage, networking, etc
 
 Cloud adoption allows organizations to shift from a Capital Expense to an Operational Expense model (**OpEx**).
 
-| Benefit               | Description                                             |
-|-----------------------|---------------------------------------------------------|
-| **High Availability** | Uptime 99% - 99.95%                                     |
-| **Scalability**       | **Vertical** / **Horizontal** scaling as demand increases or decreases    |
-| **Reliability**       | Recover from failures (fault tolerance / DR)              |
-| **Predictability**    |  **Of performance**: resources needed <br> **Of cost**: forecasting |
-| **Agility**           | Rapid provisioning and innovation                       |
-| **Cost Efficiency**   | Reduced capital expense, operational savings            |
+| Benefit               | Description                                                            |
+|-----------------------|------------------------------------------------------------------------|
+| **High Availability** | **Uptime** 99% - 99.95%                                                |
+| **Scalability**       | **Vertical** / **Horizontal** scaling as demand increases or decreases |
+| **Reliability**       | **Recover** from failures (fault tolerance / DR)                       |
+| **Predictability**    |  **Of performance**: resources needed <br> **Of cost**: forecasting    |
+| **Agility**           | **Rapid** provisioning and innovation                                  |
+| **Cost Efficiency**   | Reduced capital expense, **operational savings**                       |
 
 ### 3. Shared Responsibility Model
 
@@ -68,10 +68,10 @@ Using what: Portal, CLI, APIs, Cloud Shell.
 | PaaS  | App hosting, DB services       | - Use development frameworks and built-in components <br> - Analytics or business intelligence apps |
 | SaaS  | Email, CRM, productivity tools | - Hosted Apps |
 
-### 5. Deployment Models
+### 5. Cloud Deployment Models
 
 | Model   | Definition                            | Example                          |
 |---------|---------------------------------------|----------------------------------|
-| Public  | Accessible via public internet        | Microsoft Azure / AWS            |
+| Public  | Accessible via public Internet        | Microsoft Azure / AWS            |
 | Private | Hosted on private infrastructure      | On-premises data center          |
-| Hybrid  | Combines public and private cloud     | Cloud backup + on-prem DB        |
+| Hybrid  | Combines public and private           | Cloud backup + on-prem DB        |

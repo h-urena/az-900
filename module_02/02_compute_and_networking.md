@@ -43,25 +43,30 @@ On-demand computing that provides resources and connectivity.
 
 ### Azure Virtual Network (VNet)
 
-Enables Azure resources to communicate with each other and with on-prem resources privately using **Network Security Groups (NSG)**, which enforce traffic filtering and access rules.
+Enables Azure resources to communicate with each other and with on-prem resources privately using **Network Security Groups (NSGs)**, which enforce traffic filtering and access rules.
 
 ### Azure Virtual Private Networks
 
-VPNs are deployed to connect two or more trusted private networks to one another over the public Internet.
+Securely connect two or more trusted private networks to one another over the public Internet.
 
 ### Azure VPN Gateway
 
-Instances that are deployed in a dedicated subnet of the VNet. It supports:
+Instances that are deployed in a **dedicated subnet** of the VNet. It supports the following scenarios:
 
-- **Site-to-Site** connection: On-prem datacenters to VNets
-- **Point-to-Site** connection: Individual devices to VNets
-- **Network-to-Network** connection: VNets to other VNets
-- **Policy-based** connection: specify statically the IP addresses of the packets that should be encrypted through each tunnel
-- **Route-based** connection: modeled as a network interface or virtual tunnel interface. Use it when:
-  - Connecting between VNets
-  - Connecting point-to-site
-  - Connecting multi-site
-  - Using Azure ExpressRoute gateway
+#### Connection Types
+
+| Connection Type | Description |
+|-----------------|-------------|
+| **Site-to-Site** | On-prem datacenters to VNets |
+| **Point-to-Site** | Individual devices to VNets |
+| **Network-to-Network** | VNets to other VNets |
+
+#### VPN Types
+
+| VPN Type         | Description                                                                    | Best Used When                                     |
+|------------------|--------------------------------------------------------------------------------|----------------------------------------------------|
+| **Policy-based** | Uses static routing policies to define packet encryption rules for each tunnel | Simple configurations, limited flexibility         |
+| **Route-based**  | Uses dynamic routing with virtual tunnel interfaces (VTI)                      | VNets ↔ VNets <br> Point-to-Site ↔ Point-to-Site <br> Multi-Site ↔ Multi-Site <br> Using ExpressRoute gateway <br> More scalable and flexible scenarios |
 
 ### Azure ExpressRoute
 
@@ -71,6 +76,6 @@ Allow a private connection between on-prem networks and Azure.
 
 Hosting service for DNS domains that provides name resolution.
 
-### AI-Generated Compute and Networking diagram
+#### AI-Generated Compute and Networking diagram
 
 ![AI Generated Compute Networking](../assets/ai_generated_compute_networking_v1.png)

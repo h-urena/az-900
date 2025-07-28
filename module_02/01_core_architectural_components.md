@@ -14,7 +14,7 @@
 - **Management group**: organization of subscriptions into containers at scope level
   - **Subscription**: unit of management for billing and scaling <br>
   -**Billing boundary**: multiple subscriptions for different types of billing requirements <br>
-  -**Access control boundary**: access-management policies
+  -**Access control boundary**: access management policies
     - **Resource group**: grouping of resources (can't be nested)
       - **Resource**: basic building block of Azure (everything)
 

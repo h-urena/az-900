@@ -53,9 +53,15 @@ Add, modify or delete *resource tags* using: PowerShell, Azure CLI, Resource Man
       - Resource Group
         - **Or** individual resource level.
 
+#### Use Cases
+
+- Restrict the deployment of a virtual machine to a specific location
+- Only create virtual machines of a certain size
+
 ### Microsoft Purview
 
-Promotes risk and compliance, and unified data governance.
+A family of data governance, risk, and compliance solutions that helps you get a single, unified view into your data.
+Two main solution areas comprise it: risk and compliance(**protection of data**) and unified data governance(**data policy**).
 
 ### 🔒 Resource Locks
 
@@ -106,7 +112,7 @@ Keeps track of resources and the overall status of Azure.
 
 ### Azure Monitor
 
-Platform for collecting, analyzing, visualizing, and even acting on resources' data.
+Platform for collecting, analyzing, visualizing, alerting, and even acting on resources' metrics.
 
 | Tool                  | Focus                                                       |
 |-----------------------|-------------------------------------------------------------|

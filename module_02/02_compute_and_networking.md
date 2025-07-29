@@ -11,7 +11,7 @@ On-demand computing that provides resources and connectivity.
 - Type: **IaaS**
 - **Scale Sets**:
   - To scale resources elastically (based on demand or schedule)
-  - Identical VMs that auto-deploy a load balancer
+  - **Identical** VMs that auto-deploy a load balancer
 - **Availability Sets**
   - To create redundancies in order to prevent outages or handle updates
   - **Update Domain**: same-time rebooting

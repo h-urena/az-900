@@ -60,8 +60,8 @@ Add, modify or delete *resource tags* using: PowerShell, Azure CLI, Resource Man
 
 ### Microsoft Purview
 
-A family of data governance, risk, and compliance solutions that helps you get a single, unified view into your data.
-Two main solution areas comprise it: risk and compliance(**protection of data**) and unified data governance(**data policy**).
+- A family of data governance, risk, and compliance solutions that helps you get a single, unified view into your data
+- Two main solution areas comprise it: risk and compliance (**protection of data**), and unified data governance (**data policy**)
 
 ### 🔒 Resource Locks
 

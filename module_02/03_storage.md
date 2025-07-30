@@ -19,7 +19,7 @@ Data in the **secondary region** may not be up-to-date due to RPO (usually 15 mi
 
 ### Azure Blobs
 
-Storage for unstructured data; such as text, images or binary data.
+Storage for unstructured data; such as text, images or binary files.
 
 #### Tiers
 

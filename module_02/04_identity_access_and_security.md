@@ -62,7 +62,7 @@ Evaluates signals (like location, device, risk level) to decide whether to **gra
 
 ### Role-Based Access Control (RBAC)
 
-- **Scope** level: which is a resource or set of resources this access applies to
+- Assigns specific permissions to users or groups at **scope** level, which is a resource or set of resources this access applies to
 - Hierarchical
 - Enforced through **Azure Resource Manager**
 - Least privilege: access is denied unless explicitly assigned

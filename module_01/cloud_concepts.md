@@ -63,10 +63,10 @@ Using what: Portal, CLI, APIs, Cloud Shell (Bash = CLI or PoweShell).
 ### 4. Cloud Service Models
 
 | Model | Example Resources              | Example Scenarios |
-|-------|--------------------------------|----------------------------------------------------------------------------------------------------|
-| IaaS  | Virtual machines, storage      | - Lift-and-shift migration from on-prem to cloud <br> - Testing and development with full control  |
+|-------|--------------------------------|-----------------------------------------------------------------------------------------------------|
+| IaaS  | VMs, VNets, storage            | - Lift-and-shift migration from on-prem to cloud <br> - Testing and development with full control   |
 | PaaS  | App hosting, DB services       | - Use development frameworks and built-in components <br> - Analytics or business intelligence apps |
-| SaaS  | Email, CRM, productivity tools | - Hosted Apps |
+| SaaS  | Email, CRM, productivity tools | - Hosted Apps                                                                                       |
 
 ### 5. Cloud Deployment Models
 

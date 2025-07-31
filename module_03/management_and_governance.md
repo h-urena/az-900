@@ -13,7 +13,7 @@ There are six factors that affect cost:
 
 ### Pricing Calculator
 
-Estimates cost for provisioning resources in Azure **with an existing subscription**.
+Estimates cost for provisioning resources before deployment in Azure **with an existing subscription**.
 
 ### TCO Calculator
 
@@ -21,7 +21,7 @@ Estimates cost for migrating **from on-prem to Azure**.
 
 ### Azure Cost Management
 
-Check resource costs, set budgets, create alerts and get recommendations to save money.
+Check resource **actual** costs, set budgets, create alerts and get recommendations to save money.
 
 - **Cost Analysis**: explore and analyze organizational costs.
 - **Cost Alerts**:

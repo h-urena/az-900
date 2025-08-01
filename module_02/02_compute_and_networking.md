@@ -55,11 +55,11 @@ Instances that are deployed in a **dedicated subnet** of the VNet. It supports t
 
 #### Connection Types
 
-| Connection Type | Description |
-|-----------------|-------------|
-| **Site-to-Site** | On-prem datacenters to VNets |
-| **Point-to-Site** | Individual devices to VNets |
-| **Network-to-Network** | VNets to other VNets |
+| Connection Type        | Description                  |
+|------------------------|------------------------------|
+| **Site-to-Site**       | On-prem datacenters to VNets |
+| **Point-to-Site**      | Individual devices to VNets  |
+| **Network-to-Network** | VNets to other VNets         |
 
 #### VPN Types
 
@@ -70,7 +70,7 @@ Instances that are deployed in a **dedicated subnet** of the VNet. It supports t
 
 ### Azure ExpressRoute
 
-Allow a private connection between on-prem networks and Azure.
+Allows a private connection between on-prem networks and Azure.
 
 ### Azure DNS
 

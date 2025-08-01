@@ -23,7 +23,7 @@ Storage for unstructured data; such as text, images or binary files.
 
 #### Tiers
 
-| Tier     | Optimized For         | Minimum Storage Duration | Scope              |
+| Tier     | Optimized For         | Minimum Storage Duration | Scope             |
 |----------|-----------------------|-------------------------|--------------------|
 | Hot      | Frequent access       | None                    | Blob or Account    |
 | Cool     | Infrequent access     | 30 days                 | Blob or Account    |

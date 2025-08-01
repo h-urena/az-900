@@ -65,7 +65,7 @@ Add, modify or delete *resource tags* using: PowerShell, Azure CLI, Resource Man
 
 ### 🔒 Resource Locks
 
-- Prevent resources from being accidentally deleted or modified
+- Prevent resources from being accidentally **deleted** or **modified**
 - They're applied regardless of **RBAC** permissions
 
 ### Microsoft Service Trust Portal

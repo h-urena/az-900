@@ -56,7 +56,7 @@ Cloud adoption allows organizations to shift from a Capital Expense to an Operat
 
 How you manage your cloud resources in terms of: scaling, deployment, monitoring, and alerting.
 
-#### Management IN the cloud
+#### Management IN the Cloud
 
 Using what: Portal, CLI, APIs, Cloud Shell (Bash = CLI or PoweShell).
 

@@ -1,58 +1,55 @@
 # 🌩️ Microsoft Azure Fundamentals (AZ-900) — Certification Study Notes
 
-Welcome to my **AZ-900 Certification** study notes repository. This repo documents everything I'm learning while preparing for the **Microsoft Azure Fundamentals (AZ-900)** exam — scheduled for **August 1st, 2025**. These notes are based on Microsoft Learn, mock exams, and other curated resources as of mid-2025.
+I'm happy to share this curated collection of study notes created during my preparation for the **Microsoft Azure Fundamentals (AZ-900)** certification. The content is based on Microsoft Learn modules, mock exams, and other curated resources as of mid-2025.
+
+Whether you're just beginning your cloud journey or reinforcing core principles, these notes offer a focused path to AZ-900 content.
+
+🗓️ Certification Achieved: **August 1st, 2025**
 
 ---
 
-## 🚧 Work in Progress 🚧
+## 🟢 **Repo Status: Completed**
 
-This repository is currently under active development.
+All notes have been finalized and organized by module for easy reference:
 
-- 🗂️ Documentation and notes are being uploaded progressively.
-- 📦 Supplementary resources are under review and will be incorporated.
-- 📁 Markdown files follow the official AZ-900 learning path modules.
-- ✅ Frequent updates expected leading up to certification day.
+- 🗂️ **Markdown documentation for all exam topics**
+- 🎯 **Practice questions and bonus content**
+- 📁 **Modular structure based on Microsoft’s official learning path**
+- 📊 **Diagrams and visuals (where applicable)**
 
 ---
 
 ## 🎯 Certification Overview
 
-As per Microsoft’s official site: The **AZ-900: Microsoft Azure Fundamentals** certification validates foundational knowledge of cloud services, core Azure offerings, governance, pricing models, and compliance. It’s an ideal entry point for individuals beginning their Azure journey.
+The **AZ-900: Microsoft Azure Fundamentals** certification validates your understanding of cloud concepts, core Azure services, governance, pricing, and compliance. It’s designed for individuals new to cloud computing or looking to solidify their foundational knowledge of Microsoft Azure.
 
 ---
 
-## 📚 Learning Path & Repo Structure
+## 📚 Repository Structure
 
-This repo follows the modular structure of Microsoft’s official **Skills Measured**, with each topic addressed in a dedicated markdown file:
+- [README.md](https://github.com/h-urena/az-900/blob/main/README.md)  
+- [bonus.md](https://github.com/h-urena/az-900/blob/main/bonus.md)  
+- module_01/
+  - [cloud_concepts.md](https://github.com/h-urena/az-900/blob/main/module_01/cloud_concepts.md)  
+- module_02/
+  - [core_architectural_components.md](https://github.com/h-urena/az-900/blob/main/module_02/core_architectural_components.md)  
+  - [compute_and_networking.md](https://github.com/h-urena/az-900/blob/main/module_02/compute_and_networking.md)  
+  - [storage.md](https://github.com/h-urena/az-900/blob/main/module_02/storage.md)  
+  - [identity_access_and_security.md](https://github.com/h-urena/az-900/blob/main/module_02/identity_access_and_security.md)  
+- module_03/
+  - [management_and_governance.md](https://github.com/h-urena/az-900/blob/main/module_03/management_and_governance.md)  
 
-| Module                                                            | Markdown File                                  | Status         |
-|-------------------------------------------------------------------|------------------------------------------------|----------------|
-| Describe cloud concepts                                           | `01_Cloud_Concepts.md`                         | ⏳ Pending      |
-| Describe core Azure services                                      | `02_Core_Azure_Services.md`                    | ⏳ Pending      |
-| Describe core solutions and management tools                      | `03_Core_Solutions_Management_Tools.md`        | ⏳ Pending      |
-| Describe general security and network security features           | `04_Security_Network_Security_Features.md`     | ⏳ Pending      |
-| Describe identity, governance, privacy, and compliance features   | `05_Identity_Governance_Privacy_Compliance.md` | ⏳ Pending      |
-| Describe Azure cost management and service level agreements       | `06_Cost_Management_SLAs.md`                   | ⏳ Pending      |
-| Practice questions and flashcard decks                            | `07_Practice_Questions.md`                     | ⏳ Pending      |
-| Exam strategy and study tips                                      | `08_Exam_Strategy_Tips.md`                     | ⏳ Pending      |
-
-You’ll also find an `assets/` directory for diagrams and screenshots to enrich each section.
-
----
-
-## 🧪 Supplementary Resources (Coming Soon)
+## 🔧 Supplementary Resources
 
 - [AZ-900 Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 - [Skills Measured Breakdown](https://learn.microsoft.com/en-us/certifications/exams/az-900/#skills-measured)
-- [ExamPro AZ-900 Full Course](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
-- [Heycademy Mock Exams](https://heycademy.com/en/azure-fundamentals-exam-guide/)
-- [GitHub Study Guide](https://github.com/vicjor/az-900)
+- [ExamPro AZ-900 Full Course (YouTube)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ---
 
 ## ⚠️ Disclaimer
 
-These notes reflect my personal study experience and do **not guarantee exam success**. For the most accurate and updated information, consult official Microsoft materials.
+These notes reflect my personal study process and do **not guarantee exam success**. Always refer to official Microsoft documentation for the most up-to-date information.
 
 ---
 

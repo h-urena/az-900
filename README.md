@@ -32,10 +32,10 @@ The **AZ-900: Microsoft Azure Fundamentals** certification validates your unders
 - module_01/
   - [cloud_concepts.md](https://github.com/h-urena/az-900/blob/main/module_01/cloud_concepts.md)  
 - module_02/
-  - [core_architectural_components.md](https://github.com/h-urena/az-900/blob/main/module_02/core_architectural_components.md)  
-  - [compute_and_networking.md](https://github.com/h-urena/az-900/blob/main/module_02/compute_and_networking.md)  
-  - [storage.md](https://github.com/h-urena/az-900/blob/main/module_02/storage.md)  
-  - [identity_access_and_security.md](https://github.com/h-urena/az-900/blob/main/module_02/identity_access_and_security.md)  
+  - [core_architectural_components.md](https://github.com/h-urena/az-900/blob/main/module_02/01_core_architectural_components.md)  
+  - [compute_and_networking.md](https://github.com/h-urena/az-900/blob/main/module_02/02_compute_and_networking.md)  
+  - [storage.md](https://github.com/h-urena/az-900/blob/main/module_02/03_storage.md)  
+  - [identity_access_and_security.md](https://github.com/h-urena/az-900/blob/main/module_02/04_identity_access_and_security.md)  
 - module_03/
   - [management_and_governance.md](https://github.com/h-urena/az-900/blob/main/module_03/management_and_governance.md)  
 

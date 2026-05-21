@@ -13,7 +13,7 @@ There are six factors that affect cost:
 
 ### Pricing Calculator
 
-Estimates cost for provisioning resources before deployment in Azure **with an existing subscription**.
+Estimates cost for Azure services before deployment.
 
 ### TCO Calculator
 

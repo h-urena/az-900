@@ -58,7 +58,7 @@ How you manage your cloud resources in terms of: scaling, deployment, monitoring
 
 #### Management IN the Cloud
 
-Using what: Portal, CLI, APIs, Cloud Shell (Bash = CLI or PoweShell).
+Using what: Portal, CLI, APIs, Cloud Shell (Bash = CLI or PowerShell).
 
 ### 4. Cloud Service Models
 

@@ -42,7 +42,7 @@ The **AZ-900: Microsoft Azure Fundamentals** certification validates your unders
 ## 🔧 Supplementary Resources
 
 - [AZ-900 Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
-- [Skills Measured Breakdown](https://learn.microsoft.com/en-us/certifications/exams/az-900/#skills-measured)
+- [Skills Measured Breakdown](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 - [ExamPro AZ-900 Full Course (YouTube)](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
 
 ---

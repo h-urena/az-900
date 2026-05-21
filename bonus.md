@@ -88,9 +88,11 @@ These questions were gathered from Microsoft practice exams and AI-assisted stud
 ### 9️⃣ Multi-Subscription Governance
 
 **Question**: Which Azure service allows you to manage policies across multiple subscriptions and apply compliance rules at scale?
-**Answer**: Azure Blueprints
+**Answer**: Azure Policy + Management Groups
 
-- Bundles policies, role assignments, and ARM templates for consistent deployment.
+- **Azure Policy** defines and enforces compliance rules; can be bundled into **initiatives** for broader coverage.
+- **Management Groups** provide a hierarchy to apply policies and RBAC across multiple subscriptions at scale.
+- ⚠️ *Note: Azure Blueprints (a former answer to this question) is being retired on July 11, 2026 and has been removed from the AZ-900 exam scope.*
 
 ---
 
